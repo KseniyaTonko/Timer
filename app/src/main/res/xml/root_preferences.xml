@@ -1,0 +1,29 @@
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="Theme">
+
+        <SwitchPreferenceCompat
+            app:title="Night"
+            app:key="night"
+            app:defaultValue="false"
+            app:summaryOn="Night theme is activated"
+            app:summaryOff="Day theme is activated"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Text">
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory app:title="Delete all">
+        <Preference
+            app:title="Delete"
+            app:key="deleteAll"
+            app:defaultValue="false"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

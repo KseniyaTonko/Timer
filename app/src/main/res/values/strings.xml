@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tabata sequence</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SeqTitle">Title</string>
+    <string name="add_sequence_name">Add sequence name</string>
+    <string name="preparation">Preparation</string>
+    <string name="preparation_editText">sec</string>
+    <string name="repeatNum_editText">number of repetitions</string>
+    <string name="work">Work</string>
+    <string name="rest">Rest</string>
+    <string name="cycles_work_and_rest">Cycles (work and rest)</string>
+    <string name="sets_repeat_all">Sets (repeat all)</string>
+    <string name="rest_between_sets">Rest between sets</string>
+    <string name="calm">Calm</string>
+    <string name="add_sequence">Add sequence</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="confirmColor">Ok</string>
+    <string name="cancelColor">Cancel</string>
+    <string name="color">Color</string>
+    <string name="back">Back</string>
+    <string name="tabata_timer">Tabata timer</string>
+    <string name="open">Open</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings">Settings</string>
+    <string name="newSeq">New</string>
+
+</resources>
